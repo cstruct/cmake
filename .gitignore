@@ -1,6 +1,1 @@
-cmake*
-.c9revisions
-bin
-doc
-man
-share
+/node_modules/
